@@ -31,3 +31,7 @@ C:\Users\Yu\Desktop\maihps02050_INF205_ASSIGNMENT_GD2\ASM\login\obj\Debug\login.
 C:\Users\Yu\Desktop\maihps02050_INF205_ASSIGNMENT_GD2\ASM\login\obj\Debug\login.frmHoaDon.resources
 C:\Users\Yu\Desktop\maihps02050_INF205_ASSIGNMENT_GD2\ASM\login\obj\Debug\login.frmKhachHang.resources
 C:\Users\Yu\Desktop\maihps02050_INF205_ASSIGNMENT_GD2\ASM\login\obj\Debug\login.frmLoaiSP.resources
+C:\Users\Yu\Desktop\login\bin\Debug\login.exe.config
+C:\Users\Yu\Desktop\login\obj\Debug\login.exe
+C:\Users\Yu\Desktop\login\obj\Debug\login.xml
+C:\Users\Yu\Desktop\login\obj\Debug\login.pdb
